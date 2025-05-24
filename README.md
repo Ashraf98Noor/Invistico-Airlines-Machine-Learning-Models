@@ -8,7 +8,6 @@ This project is part of the lab work for Google Advanced Data Analytics Speciali
 
 * [Business Problem](#-business-problem)
 * [Data Description](#-data-description)
-* [Project Structure](#-project-structure)
 * [Methodology](#-methodology)
 * [Model Results](#-model-results)
 * [Key Insights & Recommendations](#-key-insights--recommendations)
@@ -33,16 +32,6 @@ The dataset includes passenger survey data and flight information, with features
 
 *See individual notebooks for complete variable lists and preprocessing details.*
 
-## 📁 Project Structure
-
-```
-├── data/                  # Data files (not included)
-├── Invistico Airlines Binomial Logistic Regression.ipynb
-├── Invistico Airlines Decision Tree.ipynb
-├── Invistico Airlines Random Forest Model.ipynb
-├── Invistico Airlines XGBoost Model.ipynb
-└── README.md
-```
 
 ## 🧭 Methodology
 
